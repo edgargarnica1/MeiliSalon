@@ -1,0 +1,42 @@
+.titulos{
+  font-family: 'Great Vibes', cursive;
+  font-size:50px;
+  color:black;
+  min-width:960px;
+  background:#fff
+}
+.sub{
+
+    font-family: 'Great Vibes', cursive;
+    font-size:35px;
+    min-width:960px;
+    background:#black;
+    line-height: 2em;
+    color: #FF0080;
+    font-weight: normal;
+    letter-spacing: 1px;
+
+}
+.services{
+  font-family: 'Great Vibes', cursive;
+  font-size:60px;
+  color:black;
+  min-width:960px;
+  background:#fff
+}
+.gallery{
+  font-family: 'Great Vibes', cursive;
+  font-size:60px;
+  color:black;
+  min-width:960px;
+  background:#black
+}
+.color{
+  color:#ff0080;
+  background:#black
+}
+.borde
+{
+
+    border-left:  0.1px solid #ff9999;
+}
